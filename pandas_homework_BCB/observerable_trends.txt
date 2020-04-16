@@ -1,0 +1,10 @@
+An analysis of the data shows a few trends.  
+
+First one can see that Charter schools outperform District Schools on their overall passing of reading and math.  On average charter schools had an overall passing score of 90.4% and District schools had an overall passing score of 53.7%.  
+
+Also the size of the budget per student only seemed to have a large affect when it came to large schools.  Both small and medium schools had high passing rates with around 90% overall passing math and reading.  Large schools have a 58% overall passing rate for both math and reading.
+
+Students at both types of schools tend to perform better in reading than in math scores.  
+
+The scores by grade level show that for both math and reading, each school scores almost the same average for 9th, 10th, 11th and 12th grade.  On average as students come into a school their overall passing rate is not changing over the course of 4 years at a school.
+
